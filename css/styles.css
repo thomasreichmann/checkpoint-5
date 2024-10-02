@@ -1,0 +1,14 @@
+body {
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.bg-special-primary {
+    background-color: #F4F5F9
+}
+
+#hero-container {
+    min-height: 60vh;
+}
